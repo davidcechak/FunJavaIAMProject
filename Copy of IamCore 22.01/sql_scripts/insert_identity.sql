@@ -1,0 +1,2 @@
+insert into "CECHY"."IDENTITIES" ("DISPLAY_NAME", "EMAIL_ADDRESS", "BIRTHDATE", "UID") values('Thomas Broussard', 'thomas.broussard@gmail.com', '1986-05-29', '123654');
+insert into "CECHY"."IDENTITIES" ("DISPLAY_NAME", "EMAIL_ADDRESS", "BIRTHDATE", "UID") values('David Cechak', 'cechyy@gmail.com', '1995-01-19', '123457');
