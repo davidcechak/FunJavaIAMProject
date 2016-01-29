@@ -13,8 +13,8 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// I bet this will ruin our project
+		System.out.println("Ahoj");
 	}
 
 }
