@@ -15,6 +15,8 @@ public class Main {
 	public static void main(String[] args) {
 		// I bet this will ruin our project
 		System.out.println("Ahoj");
+		
+		System.out.println("");
 		System.out.println("fsbdfbdskfj");
 	}
 
