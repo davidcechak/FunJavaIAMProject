@@ -16,6 +16,8 @@ public class Main {
 		// I bet this will ruin our project
 		System.out.println("Ahoj");
 		System.out.println("Adri");
+		System.out.println("");
+		System.out.println("fsbdfbdskfj");
 	}
 
 }
